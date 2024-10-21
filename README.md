@@ -2,6 +2,7 @@
 
 Para usar el bot, el script que se ejecuta en local debe hacerse público. En las pruebas, se ha estado utilizando [Serveo](https://serveo.net/). El enlace generado es el que se usará para configurar los comandos y la suscripción a eventos.
 
+La aplicación del bot se crea desde [Slack API](https://api.slack.com/)
 ## Configuración del archivo `.env`
 
 - **Token de Dify.ai:** Se utiliza el token personal.
